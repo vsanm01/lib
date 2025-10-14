@@ -693,4 +693,5 @@
 
     console.log(`✅ UniversalProductValidator v${UniversalProductValidator.version} loaded`);
 
+
 })(window);
